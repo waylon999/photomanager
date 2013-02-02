@@ -1,6 +1,8 @@
 *.py[cod]
 local_settings.py
 
+media/pictures/*
+env/*
 # C extensions
 *.so
 
